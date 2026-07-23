@@ -1,7 +1,7 @@
 # Fina Julianti
 
 <p align="left">
-  <a href="mailto:finajulianti82@gmail.com"><img src="https://img.shields.io/badge/Email-your--email%40example.com-blue?style=flat-square&logo=gmail" alt="Email" /></a>
+  <a href="mailto:finajulianti82@gmail.com"><img src="https://img.shields.io/badge/Email-finajulianti--email%4082@gmail.com-blue?style=flat-square&logo=gmail" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/fina-julianti/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
   <img src="https://komarev.com/ghpvc/?username=finadio&color=blue&style=flat-square" alt="Visitor Count" />
 </p>
