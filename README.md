@@ -1,8 +1,8 @@
 # Fina Julianti
 
 <p align="left">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-your--email%40example.com-blue?style=flat-square&logo=gmail" alt="Email" /></a>
-  <a href="https://linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:finajulianti82@gmail.com"><img src="https://img.shields.io/badge/Email-your--email%40example.com-blue?style=flat-square&logo=gmail" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/fina-julianti/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
   <img src="https://komarev.com/ghpvc/?username=finadio&color=blue&style=flat-square" alt="Visitor Count" />
 </p>
 
@@ -34,59 +34,6 @@ I build web applications and information systems with a focus on Laravel, modern
 - **AI & Data Science:** Python, PyTorch, OpenCV, Scikit-learn, Hugging Face API
 - **Tools & Ecosystem:** Git, GitHub, Figma, Filament Admin, Vite, VS Code
 </details>
-
----
-
-## Experience & Journey
-
-```
-2025
- PT BPR Madani Sejahtera Abadi (Web Developer Intern)
- └── Developed:
-     ├── UMKMSmart (MSME Product Catalog)
-     ├── Booking Meeting Room PT BPR MSA
-     └── Credit Scoring System (Financial Scoring Tool)
- 
- Academic & Personal Innovation
- └── Developed:
-     ├── SetaraLoka (Inclusive Collaboration Platform with AI)
-     ├── Posyandu Harapan Bunda (Healthcare Information System)
-     └── RASA Indonesia (Corporate Web for Sustainability Consulting)
-```
-
-### Experience
-
-#### **Web Developer Intern** | PT BPR Madani Sejahtera Abadi *(2025)*
-* Built and optimized web portals and administrative tools to support local businesses and internal corporate workflows.
-* Key systems developed: **UMKMSmart** (MSME catalog), **Booking Meeting Room** system, and **Credit Scoring System**.
-
----
-
-## Featured Projects
-
-### [SetaraLoka](https://github.com/finadio/setaraloka)
-An inclusive collaboration platform equipped with an AI assistant, accessibility tools, interactive maps, resume builder, and Progressive Web App (PWA) support.
-* **Stack:** Laravel 12 • React • Inertia.js • Tailwind CSS • Filament • Hugging Face API • OneSignal
-* **Highlights:** Real-time AI accessibility tools, responsive user dashboards, PWA offline capability.
-
-### [UMKMSmart](https://github.com/finadio/umkmsmart)
-A digital product catalog platform developed for MSMEs under PT BPR Madani Sejahtera Abadi to digitize product listings and boost visibility.
-* **Stack:** Laravel • Filament • Tailwind CSS • MySQL
-* **Highlights:** Clean management dashboard powered by Filament, mobile-responsive listings.
-
-### Meeting Room Booking System (PT BPR MSA)
-Enterprise meeting room reservation system equipped with calendar scheduling, automated WhatsApp notifications, and admin dashboards.
-* **Stack:** Laravel • Bootstrap • FullCalendar • MySQL • WhatsApp API
-* **Highlights:** Visual calendar reservation, automated scheduling conflict prevention, instant WhatsApp alerts.
-
-### Posyandu Harapan Bunda
-Community healthcare information system designed for digital patient records, preventive health tracking, and medical inventory management.
-* **Stack:** Laravel • MySQL • Tailwind CSS
-* **Highlights:** Interactive charts for child development metrics, structured inventory management.
-
-### RASA Indonesia
-Corporate website built for a sustainability consulting company, prioritizing clean design, responsive structure, and page load optimization.
-* **Stack:** WordPress • Elementor
 
 ---
 
