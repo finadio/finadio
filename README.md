@@ -48,11 +48,15 @@ I build web applications and information systems with a focus on Laravel, modern
 ## GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=finadio&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Fina's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finadio&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" height="150" />
+  <!-- Ganti domain asli dengan mirror URL di sini -->
+  <img src="https://github-readme-stats-ten-bice.vercel.app/api?username=finadio&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Fina's GitHub Stats" height="150" />
+  
+  <!-- Jangan lupa ubah juga yang bagian bahasa pemrogramannya -->
+  <img src="https://github-readme-stats-ten-bice.vercel.app/api/top-langs/?username=finadio&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" height="150" />
 </div>
 
 <div align="center">
+  <!-- Kalau bagian trophy biasanya jauh lebih stabil dari pusatnya, jadi biarin aja dulu pakai URL aslinya -->
   <img src="https://github-profile-trophy.vercel.app/?username=finadio&theme=tokyonight&margin-w=5&margin-h=5" alt="Fina's GitHub Trophies" />
 </div>
 
